@@ -1558,7 +1558,7 @@
     <string name="track_frame_time">Запись времени работы GPU</string>
     <string name="track_frame_time_summary">Измерение времени для adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Окно: масштаб</string>
-    <string name="transition_animation_scale_title">Переход: масштаб</string></string>
+    <string name="transition_animation_scale_title">Переход: масштаб</string>
     <string name="animator_duration_scale_title">Скорость анимации</string>
     <string name="overlay_display_devices_title">Имитация дополнительного дисплея</string>
     <string name="debug_applications_category">Приложения</string>

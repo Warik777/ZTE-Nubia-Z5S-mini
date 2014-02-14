@@ -146,7 +146,6 @@
     <string name="map_notif_ticker">Запрос авторизации Obex</string>
     <string name="map_notif_title">Запрос ключа сессии для MAP</string>
     <string name="map_notif_message">Разрешить \"%1$s\" доступ к корневой папке</string>
-    <string name="map_notif_title">Запрос ключа сессии для MAP</string>
     <string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
     <string name="pbap_session_key_dialog_header">Необходим ключ сеанса Bluetooth.</string>
     <string name="pbap_acceptance_timeout_message">Истекло время ожидания при установке подключения к %1$s.</string>

@@ -4,7 +4,6 @@
     <string name="app_name">Расширенный тест</string>
     <string name="advanced_bluetooth_test">Bluetooth тест</string>
     <string name="exit_bt_test_mode">Выход из режима тестирования</string>
-    <string name="advanced_bluetooth_test">Bluetooth тест</string>
     <string name="advanced_wifi_test">Wi-Fi тест</string>
     <string name="advanced_gps_test">GPS тест</string>
     <string name="advanced_back">Назад</string>

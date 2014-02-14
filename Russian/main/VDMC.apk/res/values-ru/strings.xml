@@ -60,7 +60,7 @@
     <string name="dm_compele">" секунд до завершения."</string>
     <string name="dm_compele2">" минут до завершения."</string>
     <string name="dm_con_update">Установить обновление</string>
-    <string name="dm_download_info">«Это важное обновление доступно для вашего телефона. Выберите 'Скачать', чтобы загрузить его.»</string>
+    <string name="dm_download_info">"Это важное обновление доступно для вашего телефона. Выберите 'Скачать', чтобы загрузить его."</string>
     <string name="dm_update_info">Доступно обновление.Установить сейчас?(Предупреждение: телефонные звонки, включая 911 не будет доступен во время процесса обновления.Будет перезагрузка.)</string>
     <string name="dm_update_confirm">Обновление прямо сейчас</string>
     <string name="dm_update_concel">Позже</string>
