@@ -150,4 +150,5 @@
     <string name="Theme1">Тёмная тема</string>
     <string name="Theme2">Светлая тема</string>
     <string name="theme_used">Текущая тема уже используется</string>
+    <string name="set_date_and_time">Дата и время</string>
 </resources>

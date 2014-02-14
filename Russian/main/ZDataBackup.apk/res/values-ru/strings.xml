@@ -88,7 +88,6 @@
     <string name="ui_backup_report_activity_backup_app_uninstall">Приложение не существует</string>
     <string name="ui_backup_report_activity_backup_storage_failed">Не удалось сохранить</string>
     <string name="ui_backup_report_activity_restore_app_error">Ошибка установки</string>
-    <string name="ui_backup_report_activity_backup_storage_not_enough">Не достаточно места</string>
     <string name="ui_operator_history_to">" в "</string>
     <string name="ui_operator_history_from">" c "</string>
     <string name="ui_operator_history_backup">Резервная копия %1$1sв %2$1s</string>

@@ -540,4 +540,6 @@
     <string name="unlock_failed">Запрос на разблокировку сети не выполнен.</string>
     <string name="unlock_success">Разблокировка сети успешно завершена.</string>
     <string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
+    <string name="label_subscription">Чтобы заказать бизнес</string>
+    <string name="call_report_on_ring_title">Голос вещания называет информацию</string>
 </resources>

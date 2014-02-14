@@ -1022,7 +1022,6 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="date_picker_dialog_title">Настройка даты</string>
     <string name="date_time_set">Установить</string>
-    <string name="default_permission_group">По умолчанию</string>
     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">НОВОЕ: </font></string>
     <string name="perms_description_app">Источник: %1$s.</string>
     <string name="no_permissions">Не требуется разрешений</string>
@@ -1314,4 +1313,22 @@
     <string name="enable_accessibility_canceled">Специальные возможности не будут включены.</string>
     <string name="user_switched">Выбран аккаунт пользователя %1$s.</string>
     <string name="owner_name">Владелец</string>
+    <string name="calibrate_compass">Нажмите, чтобы посмотреть помощь по калибровки компаса.</string>
+    <string name="chu">Первая</string>
+    <string name="compass_accuracy_low">Низкая точность компас</string>
+    <string name="compass_cc_help">Калибровка компаса</string>
+    <string name="dayName">День</string>
+    <string name="internal_storage_media_removed">Память телефона было удалено.</string>
+    <string name="keyguard_password_enter_pin_code_for_subscription">Введите PIN-код: карта</string>
+    <string name="keyguard_password_enter_puk_code_for_subscription">"Введите PUK-код и новый PIN-код: карта"</string>
+    <string name="lockscreen_default_weather_tips_obtain">Не удалось получить</string>
+    <string name="lockscreen_default_weather_tips_data">Информация о погоде</string>
+    <string name="lockscreen_missed_calls_tips">Пропущенный вызов</string>
+    <string name="lockscreen_plugged_in_overheat">%d%%</string>
+    <string name="lockscreen_privacy_sms_tips">У вас есть новое сообщение</string>
+    <string name="lockscreen_sms_conversation_count">( %d )</string>
+    <string name="lunar">Лунный календарь</string>
+    <string name="monthName">Месяц</string>
+    <string name="run">Запустить</string>
+    <string name="year_view">Вид года</string>
 </resources>

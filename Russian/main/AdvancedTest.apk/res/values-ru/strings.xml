@@ -83,4 +83,7 @@
     <string name="bt_4_tx_burst_test">BT 4.0 TX тест</string>
     <string name="bt_4">BT 4.0</string>
     <string name="bt_2_tx_continuous">TX Непрерывно</string>
+    <string name="tips_exit">"提示:
+1.进入测试前，请确定蓝牙关闭
+2.测试完毕后，请点击退出测试按钮"</string>
 </resources>

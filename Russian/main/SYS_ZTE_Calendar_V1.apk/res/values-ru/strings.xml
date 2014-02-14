@@ -221,4 +221,6 @@
     <string name="set_date">Перейти к дате</string>
     <string name="launch_msg">Благодарим Вас за пользование календарем Nubia</string>
     <string name="preferences_calendar_event_reminder_title">Напомнить о событии</string>
+    <string name="monthly_on_lunarday">Ежемесячно (в месяц %s)</string>
+    <string name="lunaryearly">Годовой (в год %s)</string>
 </resources>

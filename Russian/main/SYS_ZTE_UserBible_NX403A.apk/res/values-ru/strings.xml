@@ -64,4 +64,8 @@
     <string name="update_over">Обновление контента завершено</string>
     <string name="switch_on">Включить</string>
     <string name="switch_off">выключить</string>
+    <string name="last_time_update">Последнее обновление:</string>
+    <string name="last_time_upgrade">Последнее изменение:</string>
+    <string name="state_open">Открыть</string>
+    <string name="state_close">Закрыть</string>
 </resources>
