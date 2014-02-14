@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ota_skip_activation_dialog_message">"Если пропустить активацию, нельзя не cможете звонить или подключаться к сетям мобильной передачи данных (хотя вы можете подключаться к сетям Wi-Fi). Пока вы не активируете ваш телефон, вам будет предложено активировать его каждый раз, когда вы включите его."</string>
-    <string name="sip_call_options_wifi_only_title">Использование Интернет-телефонии (Wi-Fi)</string>
-    <string name="registration_status_no_wifi_data">Регистрация аккаунта остановлена, потому что нет соединения Wi-Fi.</string>
-    <string name="no_wifi_available_title">Нет подключения к сети Wi-Fi</string>
-    <string name="no_wifi_available">Вы должны быть подключены к сети Wi-Fi для звонков через Интернет (использовать настройки беспроводных и сетевых).</string>
-</resources>
