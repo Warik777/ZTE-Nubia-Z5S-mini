@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Контакты с номерами телефонов: %d</item>
-        <item quantity="one">Контакты с номерами телефона: 1</item>
+        <item quantity="other">РљРѕРЅС‚Р°РєС‚С‹ СЃ РЅРѕРјРµСЂР°РјРё С‚РµР»РµС„РѕРЅРѕРІ: %d</item>
+        <item quantity="one">РљРѕРЅС‚Р°РєС‚С‹ СЃ РЅРѕРјРµСЂР°РјРё С‚РµР»РµС„РѕРЅР°: 1</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">Контактов: %d</item>
-        <item quantity="one">Контактов: 1</item>
+        <item quantity="other">РљРѕРЅС‚Р°РєС‚РѕРІ: %d</item>
+        <item quantity="one">РљРѕРЅС‚Р°РєС‚РѕРІ: 1</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">Найдено: %d</item>
-        <item quantity="one">Найдено: 1</item>
+        <item quantity="other">РќР°Р№РґРµРЅРѕ: %d</item>
+        <item quantity="one">РќР°Р№РґРµРЅРѕ: 1</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">Найдено: %d</item>
-        <item quantity="one">Найдено: 1</item>
+        <item quantity="other">РќР°Р№РґРµРЅРѕ: %d</item>
+        <item quantity="one">РќР°Р№РґРµРЅРѕ: 1</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">объединено из нескольких источников (%0$d)</item>
-        <item quantity="one">не объединен</item>
+        <item quantity="other">РѕР±СЉРµРґРёРЅРµРЅРѕ РёР· РЅРµСЃРєРѕР»СЊРєРёС… РёСЃС‚РѕС‡РЅРёРєРѕРІ (%0$d)</item>
+        <item quantity="one">РЅРµ РѕР±СЉРµРґРёРЅРµРЅ</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">Групп: %0$d</item>
-        <item quantity="one">1 группа</item>
+        <item quantity="other">Р“СЂСѓРїРї: %0$d</item>
+        <item quantity="one">1 РіСЂСѓРїРїР°</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">В группе %2$s %1$d чел.</item>
-        <item quantity="one">В группе %2$s %1$d чел.</item>
+        <item quantity="other">Р’ РіСЂСѓРїРїРµ %2$s %1$d С‡РµР».</item>
+        <item quantity="one">Р’ РіСЂСѓРїРїРµ %2$s %1$d С‡РµР».</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d чел.</item>
-        <item quantity="one">%1$d чел.</item>
+        <item quantity="other">%1$d С‡РµР».</item>
+        <item quantity="one">%1$d С‡РµР».</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">Голосовые сообщения: %1$d</item>
-        <item quantity="one">Голосовая почта</item>
+        <item quantity="other">Р“РѕР»РѕСЃРѕРІС‹Рµ СЃРѕРѕР±С‰РµРЅРёСЏ: %1$d</item>
+        <item quantity="one">Р“РѕР»РѕСЃРѕРІР°СЏ РїРѕС‡С‚Р°</item>
     </plurals>
 </resources>
