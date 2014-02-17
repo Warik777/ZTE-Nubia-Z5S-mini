@@ -254,5 +254,4 @@
     <item type="string" name="APKTOOL_DUMMY_00fa">false</item>
     <item type="string" name="APKTOOL_DUMMY_00fb">false</item>
     <item type="string" name="APKTOOL_DUMMY_00fc">false</item>
-    <string name="Share_File">Обмениваться файлами</string>
 </resources>
