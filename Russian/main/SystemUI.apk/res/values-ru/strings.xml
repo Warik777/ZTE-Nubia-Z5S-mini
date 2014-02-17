@@ -184,4 +184,57 @@
     <string name="status_bar_help_title">Уведомления появляются здесь</string>
     <string name="status_bar_help_text">"Доступ к ним в любое время, проводя вниз. 
 Снова проведите пальцами вниз для управления системой ".</string>
+    <string name="low_battery_toast">Батарея разряжена, ваш телефон будет отключен.</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="gps">GPS</string>
+    <string name="mobile">Данные</string>
+    <string name="syn">Синхр.</string>
+    <string name="auto">Яркость</string>
+    <string name="data">Данные</string>
+    <string name="sync">Синхр.</string>
+    <string name="rotation">Поворот</string>
+    <string name="motion">Перем.</string>
+    <string name="ringer">Звонок</string>
+    <string name="vibrate">Вибрация</string>
+    <string name="mute">Тихо</string>
+    <string name="airplane">Режим полета</string>
+    <string name="saving">Питание</string>
+    <string name="pocket">Карман</string>
+    <string name="meeting">Совещание</string>
+    <string name="sleeping">Сон</string>
+    <string name="visitor">Посетитель</string>
+    <string name="brightness">Яркость</string>
+    <string name="wificast">Отбросить Wi-Fi</string>
+    <string name="capture">Захват</string>
+    <string name="clear">Очистить</string>
+    <string name="sort">Отсортировать</string>
+    <string name="nothing" />
+    <string name="arrange_title_name">Переключить</string>
+    <string name="confirm_new_sort">ok</string>
+    <string name="toast_memory_clear">Все фоновые приложения закрыты.</string>
+    <string name="usb_mass_storage">USB-диск</string>
+    <string name="usb_mass_storage_stop_button_mount">Выкл. USB-диск</string>
+    <string name="mtp_button_mount">Медиа (MTP)</string>
+    <string name="mtp_stop_button_mount">Выключить MTP</string>
+    <string name="ptp_button_mount">Камера (PTP)</string>
+    <string name="ptp_stop_button_mount">Выключить PTP</string>
+    <string name="mdm_button_mount">Модем</string>
+    <string name="mdm_stop_button_mount">Выключить модем</string>
+    <string name="usb_connection_title">Выберите тип подключения</string>
+    <string name="connected">Включен</string>
+    <string name="help_title">Справка</string>
+    <string name="confirm">OK</string>
+    <string name="usb_connections_activity_title">USB Подключение</string>
+    <string name="help_message">"USB-диск: Позволяет передавать файлы между ПК и внутренней памятью Вашего телефона.
+
+MTP: Позволяет передавать файлы между ПК и телефоном не блокируя память телефона . Так же можно использовать в Mac OS (см. www.android.com/filetransfer).
+
+PTP: Позволяет определить телефон как фотокамеру и копировать фотографии."</string>
+    <string name="usb_ums_title">UMS</string>
+    <string name="usb_ums_summary">Используйте UMS для копирования файлов между вашим компьютером и SD картой Android устройства</string>
+    <string name="screenshot_stroage_full_title">Не удалось сохранить снимок экрана</string>
+    <string name="screenshot_stroage_full_text">Сохранить не удалось, недостаточно свободного места</string>
+    <string name="recent_nums_of_apps">Прил.</string>
+
 </resources>

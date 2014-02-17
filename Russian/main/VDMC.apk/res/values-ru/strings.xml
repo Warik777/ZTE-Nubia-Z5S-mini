@@ -27,6 +27,8 @@
     <string name="auto_update_switch_summary_on">Открыть автоматические обновления</string>
     <string name="auto_update_switch_summary_off">Закрыть автоматические обновления</string>
     <string name="auto_update_frequency_texttitle">Автоматические обновления</string>
+    <string name="auto_update_frequency_textnight" />
+    <string name="auto_update_frequency_text" />
     <string name="auto_update_frequency_text2">в</string>
     <string name="auto_update_frequency_everysunday">Каждое воскресенье</string>
     <string name="auto_update_frequency_everymonday">Каждый понедельник</string>
@@ -38,6 +40,8 @@
     <string name="dm_update_everyday">Каждый день</string>
     <string name="dm_update_everyweek">Каждую неделю</string>
     <string name="dm_update_everymonth">Каждый месяц</string>
+    <string name="auto_update_frequency_default_value">10</string>
+    <string name="auto_update_frequency_key">auto_update_frequency</string>
     <string name="auto_update_frequency_summary">частота автоматического обновления</string>
     <string name="auto_update_setting">настройка автоматического обновления</string>
     <string name="cancel">отмена</string>
