@@ -227,6 +227,7 @@
     <string name="intent_sender_startactivity_text">Начать activity</string>
     <string name="intent_sender_resource_label">Resource:</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
+    <string name="proxy_settings_title">Настройки прокси-сервера</string>
     <string name="proxy_clear_text">Очистить</string>
     <string name="proxy_port_label">Порт прокси-сервера</string>
     <string name="proxy_port_hint">8080</string>
