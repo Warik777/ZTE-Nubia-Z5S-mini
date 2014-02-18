@@ -31,5 +31,7 @@
     <string name="google_search_hint">Google поиск</string>
     <string name="google_search_description">Google советы поиска</string>
     <string name="voice_search_hint_title">Попробуйте сказать:</string>
+    <string name="voice_search_hint_quotation_start">\"</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
     <string name="enter_keys_to_search">Введите ключевое(ые) слово(а) для поиска</string>
 </resources>

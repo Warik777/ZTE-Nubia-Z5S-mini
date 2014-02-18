@@ -268,4 +268,65 @@
         <item>Не разрешать</item>
         <item>Разрешать всегда</item>
     </string-array>
+    <string-array name="tts_demo_strings">
+        <item>Это пример синтеза речи на английском языке.</item>
+        <item>Это пример синтеза речи на французски языке.</item>
+        <item>Это пример синтеза речи на немецком языке.</item>
+        <item>Это пример синтеза речи на итальянском языке</item>
+        <item>Это пример синтеза речи на испанском языке.</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Вознесенный существом</item>
+        <item>Человек</item>
+        <item>Неандерталец</item>
+        <item>Шимпанзе</item>
+        <item>Обезьяна</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_summaries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Напоминание</item>
+    </string-array>
+    <string-array name="multi_sim_summaries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Подсказки пользователя</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="deep_sleep_music_entries">
+        <item>Тихая ночь</item>
+        <item>Царство мечты</item>
+        <item>Родной город мечты</item>
+        <item>"Сторона ангела"</item>
+    </string-array>
+    <string-array name="motion_settings_description_title">
+        <item>Движения циферблат</item>
+        <item>Движения ответ</item>
+        <item>Перевернуть молчать</item>
+        <item>Встряхнуть измените песню</item>
+        <item>Захват экранаe</item>
+        <item>Встряхнуть обновления</item>
+        <item>Смарт уведомить</item>
+    </string-array>
+    <string-array name="motion_settings_description_summary">
+        <item>"  контакты, журнал вызовов, телефонная книга экраном поднести телефон к уху, чтобы набрать "</item>
+        <item>поднести телефон к уху, чтобы ответить на звонок</item>
+        <item>перевернуть, чтобы молчать</item>
+        <item>налево встряхнуть, чтобы изменить предыдущую песню и право встряхнуть, чтобы изменить следующую песню в музыкальном проигрывателе</item>
+        <item>тремя пальцами вверх по экрану, чтобы захватить</item>
+        <item>BT или Wi-Fi трясти устройство, чтобы обновить</item>
+        <item>поднять телефон, чтобы просмотрет уведомления о пропущенном сообщении</item>
+    </string-array>
+	
 </resources>

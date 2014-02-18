@@ -26,6 +26,7 @@
     <string name="callFailed_dialToSs">Запрос набора номера изменен на SS запрос.</string>
     <string name="callFailed_dialToDial">Набор номера изменен на набор другого номера.</string>
     <string name="callFailed_cb_enabled">Исходящие звонки невозможны, если включен запрет вызовов.</string>
+    <string name="callFailed_incoming_cb_enabled">Все входящие звонки были отменены.</string>
     <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа.</string>
     <string name="callFailed_dsac_restricted_emergency">Экстренные вызовы запрещены настройками доступа.</string>
     <string name="callFailed_dsac_restricted_normal">Обычные вызовы запрещены настройками доступа.</string>
@@ -33,11 +34,14 @@
     <string name="confCall">Конференц-вызов</string>
     <string name="call_lost">Вызов был утрачен.</string>
     <string name="callUnanswered_forwarded">Позвонить без ответа и переадресации</string>
+    <string name="retry">Попробовать снова</string>
+    <string name="call_lost_title">Пропущеный звонок</string>
     <string name="ok">ОК</string>
     <string name="mmiStarted">Код MMI запущен</string>
     <string name="ussdRunning">Выполняется запрос USSD…</string>
     <string name="mmiCancelled">Код MMI отменен</string>
     <string name="cancel">Отмена</string>
+    <string name="enter_input">Необходим ввод. Попробуйте еще раз!</string>
     <string name="manageConferenceLabel">Управление конференц-связью</string>
     <string name="audio_mode_speaker">Динамик</string>
     <string name="audio_mode_earpiece">Динамик гарнитуры</string>
@@ -51,6 +55,21 @@
     <string name="pause_prompt_yes">Да</string>
     <string name="pause_prompt_no">Нет</string>
     <string name="wild_prompt_str">Заменить универсальный символ на</string>
+    <string name="modify_call_prompt_yes">Да</string>
+    <string name="modify_call_prompt_no">Нет</string>
+    <string name="modify_call_failure_str">"Изменить запрос вызова не удалось
+"</string>
+    <string name="modify_call_option_title">Как позвонить?</string>
+    <string name="modify_call_option_vt">VT</string>
+    <string name="modify_call_option_vt_tx">Передача видео</string>
+    <string name="modify_call_option_vt_rx">Прием видео</string>
+    <string name="modify_call_option_voice">Только голос</string>
+    <string name="accept_modify_call_request_prompt">Применить изменение запроса вызова?</string>
+    <string name="upgrade_vt_prompt">Хотите перевести звонок в видео звонок?</string>
+    <string name="upgrade_vt_tx_prompt">Хотите перевести звонок в звонок с видео передачей?</string>
+    <string name="upgrade_vt_rx_prompt">Хотите перевести звонок в звонок с видео приемом?</string>
+    <string name="vt_init_fail_str">"VT Ошибка инициализации. Обычный вызов VoLTE
+"</string>
     <string name="no_vm_number">Не указан номер голосовой почты</string>
     <string name="no_vm_number_msg">На SIM-карте нет ни одного номера голосовой почты.</string>
     <string name="add_vm_number_str">Добавить номер</string>
@@ -473,6 +492,7 @@
     <string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
     <string name="onscreenHoldText">Удерживать</string>
     <string name="onscreenEndCallText">Завершить</string>
+    <string name="onscreenModifyCallText">Изменить вызов</string>
     <string name="onscreenShowDialpadText">Кнопки</string>
     <string name="onscreenMuteText">Откл. звук</string>
     <string name="onscreenAddCallText">+ вызов</string>
@@ -508,6 +528,10 @@
     <string name="xdivert_not_active">Неактивно</string>
     <string name="xdivert_imsi_not_read">Выполняется инициализация SIM. Пожалуйста повторите позже.</string>
     <string name="network_message">Сообщение сети</string>
+    <string name="managed_roaming_title">Управляемый роуминг</string>
+    <string name="managed_roaming_dialog_content">Найдена сеть с ограниченным обслуживанием. Хотите начать поиск сети?</string>
+    <string name="managed_roaming_dialog_ok_button">Да</string>
+    <string name="managed_roaming_dialog_cancel_button">Нет</string>
     <string name="ota_title_activate">Активировать телефон</string>
     <string name="ota_touch_activate">"Необходим специальный звонок для активации службы телефона. 
 
@@ -609,6 +633,8 @@
     <string name="default_preference_summary">&lt;Не настроено></string>
     <string name="display_name_summary">&lt;Совпадает с именем пользователя></string>
     <string name="optional_summary">&lt;Необязательно></string>
+    <string name="default_port">5060</string>
+    <string name="default_transport">UDP</string>
     <string name="advanced_settings_show">Нажмите, чтобы показать все</string>
     <string name="advanced_settings_hide">Нажмите, чтобы скрыть все</string>
     <string name="empty_alert">Поле \"%s\" должно быть заполнено.</string>
@@ -621,10 +647,27 @@
     <string name="no_volte">Невозможно совершить IMS вызов</string>
     <string name="sip_system_decide">Автоматически</string>
     <string name="sip_always_send_keepalive">Отправлять всегда</string>
+    <string name="sip_always">SIP_ALWAYS</string>
+    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
+    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
+    <string name="domain_address">SipDomain</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="display_name">Отображаемое имя</string>
+    <string name="proxy_address">Прокси адрес</string>
+    <string name="port">Порт</string>
+    <string name="transport">Протокол</string>
+    <string name="send_keepalive">SendKeepAlive</string>
+    <string name="set_primary">SetPrimary</string>
+    <string name="advanced_settings_container">расширенные настройки контейнера</string>
+    <string name="auth_username">Авторизация имени пользователя</string>
     <string name="ims_edit_title">детали аккаунта IMS</string>
     <string name="ims_accounts_title">IMS аккаунт</string>
     <string name="ims_domain_address_title">IMS сервер</string>
+    <string name="call_type">Тип вызова</string>
     <string name="call_type_title">IMS тип вызова</string>
+    <string name="default_ims_call_type">Голос</string>
+    <string name="use_ims_default">По умолчанию пользователя</string>
     <string name="use_ims_default_title">Использовать IMS всегда</string>
     <string name="use_ims_default_summary">Использовать IMS для всех вызовов</string>
     <string name="ims_menu_save">Сохранить</string>
@@ -638,6 +681,7 @@
     <string name="respond_via_sms_custom_message">Добавить сообщение</string>
     <string name="respond_via_sms_setting_title">Быстрые ответы</string>
     <string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
+    <string name="respond_via_sms_setting_summary" />
     <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
     <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
     <string name="description_image_button_one">один</string>
@@ -657,12 +701,20 @@
     <string name="accessibility_speakerphone_enabled">Громкая связь включена.</string>
     <string name="accessibility_call_muted">Звук выключен.</string>
     <string name="description_target_answer">Правильный вариант</string>
+    <string name="description_target_answer_video">Ответить с видео</string>
+    <string name="description_target_answer_tx_video">Ответить с TX видео</string>
+    <string name="description_target_answer_rx_video">Ответить с RX видео</string>
     <string name="description_target_send_sms">Отправить SMS</string>
     <string name="description_target_decline">Отклонить</string>
+    <string name="description_direction_up_right">Вверх Вправо</string>
+    <string name="description_direction_up_left">Вверх Влево</string>
+    <string name="description_direction_down_left">Вниз Влево</string>
+    <string name="description_direction_down_right">Вниз Вправо</string>
     <string name="voicemail_notification_vibrate_when_title">Вибросигнал</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Вибросигнал</string>
     <string name="voicemail_notification_ringtone_title">Рингтон</string>
     <string name="default_notification_description">Звук по умолчанию (%1$s)</string>
+    <string name="voicemail_notification_vibrate_when_default">никогда</string>
     <string name="ringtone_title">Рингтон</string>
     <string name="vibrate_on_ring_title">Вибросигнал и рингтон</string>
     <string name="dtmf_tone_enable_title">Звук клавиш</string>
@@ -693,6 +745,7 @@
     <string name="new_cards_available">Доступна новая карта. Пожалуйста сконфигурируйте подписки.</string>
     <string name="config_sub_title">Конфигурировать подписки</string>
     <string name="deact_all_sub_not_supported">Деактивация обоих подписчиков не поддерживается.</string>
+    <string name="set_sub_not_supported_phone_in_call">Включать или Отключать подписку не допускается, в режиме вызова.</string>
     <string name="ContactScreen">Добавить/Редактировать контакты SIM</string>
     <string name="ExportContactScreen">Экспортировать контакты с телефона на sim</string>
     <string name="addSimEntries">Добавить контакты SIM</string>
@@ -716,6 +769,7 @@
     <string name="exportAllcontatsFailed">Ошибка экспорта контактов на SIM!!!</string>
     <string name="cursorError">Курсор не имеет соответствующих данных!!!</string>
     <string name="config_error">Ошибка функции макро конфигурации</string>
+    <string name="voice_call_timer">Счетчик голосового вызова</string>
     <string name="call_and_data_title">Длительность вызовов</string>
     <string name="recently_call">Последние вызовы</string>
     <string name="recently_call_data">00:00:00</string>
@@ -787,6 +841,7 @@
     <string name="headset_autoanswer_immediately">Немедленно</string>
     <string name="headset_autoanswer_afterfives">После 5-ти секунд</string>
     <string name="headset_autoanswer_aftertens">После 10-ти секунд</string>
+    <string name="auto_answer_incomingcall_default_when_insert_the_headset">0</string>
     <string name="onscreenSpeaker">Динамик</string>
     <string name="onscreenDialpadText">Панель набора</string>
     <string name="onscreenMoreText">Еще</string>

@@ -818,7 +818,7 @@
     <string name="screensaver_settings_summary_either_short">Или</string>
     <string name="screensaver_settings_summary_sleep">Во время зарядки</string>
     <string name="screensaver_settings_summary_dock">Когда подключено устройство</string>
-    <string name="screensaver_settings_summary_off">Отключено</string>
+    <string name="screensaver_settings_summary_off">Отключена</string>
     <string name="screensaver_settings_disabled_prompt">Чтобы знать, что происходит с телефоном, когда он подключен к док-станции или находится в спящем режиме, включите заставку.</string>
     <string name="screensaver_settings_when_to_dream">При заставке</string>
     <string name="screensaver_settings_dream_start">Начать</string>
@@ -1732,8 +1732,8 @@
     <string name="show_cpu_usage_summary">Экран, показывающий текущую загрузку ЦП</string>
     <string name="force_hw_ui">Ускорить работу GPU</string>
     <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерного рисования</string>
-    <string name="force_msaa">4x MSAA erzwingen</string>
-    <string name="force_msaa_summary">4x MSAA in OpenGL ES 2.0-Apps aktivieren</string>
+    <string name="force_msaa">Включить 4x MSAA</string>
+    <string name="force_msaa_summary">>Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
     <string name="track_frame_time">Запись времени работы GPU</string>
     <string name="track_frame_time_summary">Измерение времени для adb shell dumpsys gfxinfo</string>
     <string name="window_animation_scale_title">Окно: масштаб</string>
@@ -2105,7 +2105,7 @@ It не стирать :
     <string name="screen_timeout_5_min">5 мин</string>
     <string name="screen_timeout_10_min">10 мин</string>
     <string name="screen_timeout_30_min">никогда</string>
-    <string name="festival_wallpaper_title">праздничные обои</string>
+    <string name="festival_wallpaper_title">Праздничные обои</string>
     <string name="festival_wallpaper_summary">Установить праздничные обои</string>
     <string name="font_size_min">A-</string>
     <string name="font_size_normal">Нормально</string>
