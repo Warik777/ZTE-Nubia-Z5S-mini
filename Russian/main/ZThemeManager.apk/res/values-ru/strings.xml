@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ThemeManager</string>
+    <string name="app_name">Менеджер тем</string>
     <string name="menu_settings">Настройки</string>
     <string name="hello_world">Приветствую!</string>
     <string name="menu_action_bar_search">Поиск</string>
