@@ -2195,7 +2195,6 @@ It не стирать :
     <string name="one_key_wps">Включение WPS одним нажатием</string>
     <string name="app_name">BlueTab Man</string>
     <string name="service_name">BlueTab Man услуги</string>
-    <string name="proxy_settings_title">Настройки прокси-сервера</string>
     <string name="start_service">Запустить сервис</string>
     <string name="bluetab_spp_connected">Подключен к NUBIA-BT для sms</string>
     <string name="bluetab_spp_connecting">Подключение к BlueTab для sms</string>
