@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="numeric_date_template" formatted="false">%s-%s-%s</string>
     <string name="hello">Спасибо, что пользуетесь смартфоном nubia. Этот Мастер запускапризван помочь вам снастройками.</string>
     <string name="app_name">Мастер установки</string>
+    <string name="reg_url_back">http://10.204.79.125:8080/zuid-server/user/userOperate.zte</string>
+    <string name="reg_url">http://ucserver.v5.ztemt.com.cn/user/userOperate.zte</string>
     <string name="secretKey">fh4n6zw1se07a12hi4esi3bi2yknd1ny</string>
     <string name="appKey">45200348</string>
     <string name="ok">OK</string>
@@ -24,7 +27,7 @@
     <string name="start">Завершить</string>
     <string name="set_data_and_time">Дата и время</string>
     <string name="set_network">Подключение к сети</string>
-    <string name="set_finish">окончена</string>
+    <string name="set_finish">Финиш</string>
     <string name="date_and_time_settings_title">Установите дату и время</string>
     <string name="date_and_time_settings_title_setup_wizard">Установите дату и время</string>
     <string name="date_and_time_settings_summary">Установите дату, время, часовой пояс, &amp; форматы</string>
@@ -57,10 +60,10 @@
     <string name="next">Далее</string>
     <string name="skip">Пропустить</string>
     <string name="back">Назад</string>
-    <string name="wifiSetting">Подключиться к Wi-Fi сети</string>
-    <string name="introWIFI">Хотите подключиться к Wi-Fi сети прямо сейчас?</string>
+    <string name="wifiSetting">Подключиться</string>
+    <string name="introWIFI">Подключиться к Wi-Fi сейчас?</string>
     <string name="accountInfo">Создав бесплатную учетную запись вы можете посетить облачный сервис nubia.</string>
-    <string name="createAccount">Создать учетную запись</string>
+    <string name="createAccount">Регистрация</string>
     <string name="login">Логин</string>
     <string name="finish">Завершить</string>
     <string name="finishInfo">Поздравляем! Мастер установки nubia был завершен. Удачи! Спасибо!</string>

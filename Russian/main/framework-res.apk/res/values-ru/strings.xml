@@ -1109,8 +1109,8 @@
     <string name="hardware">Аппаратура</string>
     <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
     <string name="select_keyboard_layout_notification_message">Нажмите, чтобы выбрать раскладку клавиатуры.</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_alphabet">" АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"</string>
     <string name="candidates_style"><u>варианты</u></string>
     <string name="ext_media_checking_notification_title">Подготовка %s</string>
     <string name="ext_media_checking_notification_message">Проверка ошибок.</string>
@@ -1218,8 +1218,8 @@
     <string name="time_picker_decrement_minute_button">На минуту назад</string>
     <string name="time_picker_increment_hour_button">На час вперед</string>
     <string name="time_picker_decrement_hour_button">На час назад</string>
-    <string name="time_picker_increment_set_pm_button">Установить время после полудня</string>
-    <string name="time_picker_decrement_set_am_button">Установить время до полудня</string>
+    <string name="time_picker_increment_set_pm_button">После 12:00</string>
+    <string name="time_picker_decrement_set_am_button">До 12:00</string>
     <string name="date_picker_increment_month_button">На месяц вперед</string>
     <string name="date_picker_decrement_month_button">На месяц назад</string>
     <string name="date_picker_increment_day_button">На день вперед</string>
