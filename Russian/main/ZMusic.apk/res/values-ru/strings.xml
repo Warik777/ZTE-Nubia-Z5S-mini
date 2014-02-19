@@ -5,6 +5,8 @@
     <string name="delete_folder_desc_nosdcard">Удалить папку \"%s\" с USB хранилища?</string>
     <string name="all">Все</string>
     <string name="total">песни</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="goto_start">Библиотека</string>
     <string name="party_shuffle">Перемешивать</string>
     <string name="party_shuffle_off">Перемешивание выключено</string>
@@ -168,6 +170,7 @@
     <string name="internal_media">Внутреннее медиа</string>
     <string name="external_media">Внешнее медиа</string>
     <string name="record_media">Запись медиа</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="silent">Тихо</string>
     <string name="cancel_picker">Отмена</string>
     <string name="ok_picker">OK</string>
@@ -211,4 +214,8 @@
     <string name="no_recordfile">Нет аудио записей</string>
     <string name="add_recordfile">сначала сделайте запись с помощью Диктофона</string>
     <string name="no_musicfile">Нет музыкальных файлов</string>
+    <string name="albumsongseparator">"
+"</string>
+    <string name="notification_artist_album">"%2$s
+%1$s"</string>
 </resources>
