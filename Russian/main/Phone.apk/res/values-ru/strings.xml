@@ -884,7 +884,7 @@
     <string name="sum_current_network_mode_cdma_evdo_gsm">Выбранный режим сети: CDMA/EvDo/GSM</string>
     <string name="sum_current_network_mode_cdma_evdo_gsm_wcdma">Выбранный режим сети: CDMA/EvDo/GSM/WCDMA</string>
     <string name="unknown_sim_card_dialog_title">Выберите режим сети</string>
-    <string name="unknown_sim_card_dialog_message">Установите вашего оператора сети для использования телефона.</string>
+    <string name="unknown_sim_card_dialog_message">Установите сеть которую ваш оператор использует для телефона</string>
     <string name="prefer_network_list">Список предпочтительных сетей</string>
     <string name="prefer_network_list_summary">Просмотр списка предпочтительной сети</string>
     <string name="prefer_network_list_plmn">PLMN</string>
