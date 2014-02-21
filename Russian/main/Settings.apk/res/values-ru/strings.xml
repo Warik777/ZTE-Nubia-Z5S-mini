@@ -308,7 +308,7 @@
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_shortcut">Ярлык настроек</string>
-    <string name="airplane_mode">>Режим полета</string>
+    <string name="airplane_mode">Режим полета</string>
     <string name="radio_controls_title">Ещё...</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
     <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полета, мобильные сети и VPN</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="build_number">20080722-0001</string>
     <string name="permission_read_attachment_label">Открывать прикрепленные файлы</string>
     <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты.</string>
     <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
@@ -55,6 +56,12 @@
     <string name="notification_to_account">Кому: %1$s</string>
     <string name="notification_multiple_new_messages_fmt">Новых сообщений: %1$d</string>
     <string name="account_name_display_all">Все аккаунты</string>
+    <string name="mailbox_name_server_inbox">Входящие</string>
+    <string name="mailbox_name_server_outbox">Исходящие</string>
+    <string name="mailbox_name_server_drafts">Черновики</string>
+    <string name="mailbox_name_server_trash">Корзина</string>
+    <string name="mailbox_name_server_sent">Отправленные</string>
+    <string name="mailbox_name_server_junk">Спам</string>
     <string name="mailbox_name_display_inbox">Входящие</string>
     <string name="mailbox_name_display_outbox">Исходящие</string>
     <string name="mailbox_name_display_drafts">Черновики</string>
@@ -66,6 +73,13 @@
     <string name="picker_mailbox_name_all_inbox">Входящие (все)</string>
     <string name="picker_combined_view_fmt">Комбинированный вид (%s)</string>
     <string name="debug_version_fmt">Версия: %s</string>
+    <string name="debug_enable_debug_logging_label">Включить долнительное ведение журнала отладки?</string>
+    <string name="debug_enable_exchange_logging_label">Включение ведения журнала анализа exchange? (подробный)</string>
+    <string name="debug_enable_exchange_file_logging_label">Включите ведение журнала SD-карты?</string>
+    <string name="debug_clear_webview_cache">Очистить кэш</string>
+    <string name="debug_disable_graphics_acceleration_label">Отключить аппаратное ускорение графики</string>
+    <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
+    <string name="debug_enable_strict_mode_label">Строгий режим (с регистрацией)</string>
     <string name="account_folder_list_summary_inbox">Входящие</string>
     <string name="account_folder_list_summary_starred">Помеченные</string>
     <string name="account_folder_list_summary_drafts">Черновики</string>
@@ -198,6 +212,10 @@
     <string name="account_setup_account_type_title">Настройка аккаунта</string>
     <string name="account_setup_account_type_headline">Тип аккаунта</string>
     <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
+    <string name="account_setup_account_type_pop_action">POP3</string>
+    <string name="account_setup_account_type_imap_action">IMAP</string>
+    <string name="account_setup_account_type_exchange_action">Exchange</string>
+    <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
     <string name="account_setup_incoming_title">Настройка аккаунта</string>
     <string name="account_setup_incoming_headline">Настройки сервера входящих сообщений</string>
     <string name="account_setup_incoming_username_label">Имя пользователя</string>
@@ -395,7 +413,26 @@
     <string name="search_slow_warning_title">Ожидание результатов</string>
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени.</string>
     <string name="action_bar_mailbox_list_title">Папки</string>
+    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="require_manual_sync_message">Для этого аккаунта отключена фоновая синхронизация в роуминге.</string>
+    <string name="account_name_length_limited">Введите не более 30 знаков</string>
+    <string name="template">Шаблоны Email</string>
+    <string name="account_setup_template">Провайдер Email</string>
+    <string name="mail_exchange">Exchange</string>
+    <string name="mail_163">163</string>
+    <string name="mail_126">126</string>
+    <string name="mail_qq">qq</string>
+    <string name="mail_sina">sina</string>
+    <string name="mail_sohu">sohu</string>
+    <string name="mail_yahoo">yahoo</string>
+    <string name="mail_other">Другое</string>
+    <string name="mail_139">139</string>
+    <string name="mail_foxmail">foxmail</string>
+    <string name="mail_gmail">gmail</string>
+    <string name="mail_hotmail">hotmail</string>
+    <string name="mail_189">189</string>
+    <string name="from_189_mail">Письмо отправлено с 189 почты</string>
+    <string name="mail_189_name">189 почта</string>
     <string name="application_name">Загрузка с телефона</string>
     <string name="picasa_default_destination">Альбом для загрузки с телефона</string>
     <string name="summary_title_uploading">Загрузка</string>

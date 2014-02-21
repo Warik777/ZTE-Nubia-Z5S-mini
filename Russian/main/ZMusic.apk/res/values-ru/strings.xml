@@ -97,7 +97,7 @@
     <string name="mediasearch">Поиск %s используя:</string>
     <string name="working_artists">Артисты…</string>
     <string name="working_albums">Альбомы…</string>
-    <string name="working_songs">Песни…</string>
+    <string name="working_songs">Песни...</string>
     <string name="working_playlists">Плейлисты…</string>
     <string name="loading">Загрузка…</string>
     <string name="sort_by_track">Треки</string>
@@ -106,7 +106,7 @@
     <string name="music_picker_title">Выбрать музыкальный трек</string>
     <string name="search_settings_description">Артисты, альбомы, и треки</string>
     <string name="search_hint">Поиск музыки</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"</string>
+    <string name="fast_scroll_alphabet">" АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"</string>
     <string name="widget_initial_text">Нажмите для выбора музыки.</string>
     <string name="effectspanel">Dolby Digital Plus</string>
     <string name="totalsongs">Всего %d Песен</string>

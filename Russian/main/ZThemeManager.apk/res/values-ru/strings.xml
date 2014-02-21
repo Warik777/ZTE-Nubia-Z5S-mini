@@ -118,6 +118,6 @@
     <string name="str_submitting">Отправка...</string>
     <string name="str_submit_sucess">Отправка успешна</string>
     <string name="str_submit_fail">Ошибка отправки</string>
-    <string name="more_surprise">скоро будет сурприз</string>
+    <string name="more_surprise">скоро будет сюрприз</string>
     <string name="device_not_applicable">Текущее устройство хранения недоступен, проверьте, подключено ли устройство хранения USB.</string>
 </resources>
