@@ -15,13 +15,13 @@
     <string name="default_label">Будильник</string>
     <string name="set_alarm">Установить будильник</string>
     <string name="alarm_vibrate">Вибрация</string>
-    <string name="alarm_repeat">Повтор</string>
+    <string name="alarm_repeat">День недели</string>
     <string name="alert">Рингтон</string>
     <string name="time">Время</string>
-    <string name="alarm_alert_dismiss_text">Отложить</string>
+    <string name="alarm_alert_dismiss_text">Выключить</string>
     <string name="alarm_alert_alert_silenced">Выключение будильника через %d минут</string>
-    <string name="alarm_alert_snooze_text">Дремать</string>
-    <string name="alarm_alert_snooze_set">Дремание через %dминут.</string>
+    <string name="alarm_alert_snooze_text">Напомнить</string>
+    <string name="alarm_alert_snooze_set">Напомнить через %d минут.</string>
     <string name="day">1 день</string>
     <string name="days">%s дней</string>
     <string name="hour">1 час</string>
@@ -36,7 +36,7 @@
     <string name="settings">Настройки</string>
     <string name="alarm_in_silent_mode_title">Будильник в беззвучном режиме</string>
     <string name="alarm_in_silent_mode_summary">Воспроизводить звук будильника, если телефон в спящем режиме.</string>
-    <string name="snooze_duration_title">Время между дреманием</string>
+    <string name="snooze_duration_title">Напомнить через</string>
     <string name="auto_silence_title">Автоотключение</string>
     <string name="auto_silence_summary">Отключение будильников через %d минут</string>
     <string name="auto_silence_never">Откл</string>
@@ -46,8 +46,8 @@
     <string name="alarm_volume_title">Громкость будильника</string>
     <string name="alarm_volume_summary">Установить громкость будильников</string>
     <string name="silent_alarm_summary">Бесшумный</string>
-    <string name="alarm_notify_text">выбрать дремание для отключения этого будильника.</string>
-    <string name="alarm_notify_snooze_label">%s (дремание)</string>
+    <string name="alarm_notify_text">выбрать напоминание для отключения этого будильника.</string>
+    <string name="alarm_notify_snooze_label">%s (напомнить)</string>
     <string name="alarm_notify_snooze_text">Будильник установлен на %s. Выберите для отмены.</string>
     <string name="volume_button_setting_title">Кнопки громкости</string>
     <string name="volume_button_dialog_title">Эффект кнопок</string>
@@ -73,7 +73,7 @@
     <string name="alarm_type_title">Тип будильника</string>
     <string name="volume_title">Громкость</string>
     <string name="name_title">Имя</string>
-    <string name="snooze">Дремание</string>
+    <string name="snooze">Напомнить</string>
     <string name="tts">TTS</string>
     <string name="tts_summary">Советы TTS</string>
     <string name="monday">Пн</string>

@@ -21,11 +21,11 @@
         <item>Будильник установлен через %1$s, %2$s, и %3$s от данного момента.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>интервал дремания</item>
+        <item>Напомнить через</item>
         <item>5 минут</item>
         <item>10 минут</item>
         <item>15 минут</item>
-        <item>время дремания</item>
+        <item>Повторить</item>
         <item>1 раз</item>
         <item>3 раза</item>
         <item>5 раз</item>
@@ -62,7 +62,7 @@
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Нет</item>
-        <item>Дремать</item>
+        <item>Напомнить</item>
         <item>Пропустить</item>
     </string-array>
     <string-array name="volume_button_setting_values">
