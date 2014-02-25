@@ -423,6 +423,9 @@
     <string name="pin2_unblocked">PIN2 разблокирована!</string>
     <string name="doneButton">Готово</string>
     <string name="caller_manage_header">Конференц-вызов: %s</string>
+    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
+    <string name="fake_phone_activity_infoText_text">Входящий номер телефона</string>
+    <string name="fake_phone_activity_placeCall_text">Поддельный входящий звонок</string>
     <string name="voicemail_settings_number_label">Номер голосовой почты</string>
     <string name="card_title_dialing">Набор номера</string>
     <string name="card_title_redialing">Повторная попытка</string>
@@ -877,6 +880,7 @@
     <string name="not_support_in_cdma">Не поддерживается в CDMA</string>
     <string name="onscreenConferenceCallsHintText">Нажмите \"Соединить звонки\" для входа в Конференцсвязь</string>
     <string name="iac_settings">Настройки набора через +</string>
+    <string name="fdn_contacts_isfull">Контакты FDN заполнены!</string>
     <string name="title_choose_network_automatically">Автомат. выбор режима сети</string>
     <string name="sum_current_network_mode">Выбранный режим сети:</string>
     <string name="sum_current_network_mode_gsm_tdscdma">Выбранный режим сети: GSM/TD-SCDMA</string>

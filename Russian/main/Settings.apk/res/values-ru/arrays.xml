@@ -157,7 +157,7 @@
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-        <item>Пользовательские</item>
+        <item>Статический</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Нет</item>
@@ -332,5 +332,10 @@
         <item>делать снимок экрана при слайде тремя пальцами вверх</item>
         <item>обновлять список устройств BT и Wi-Fi во время поиска при встряхивании телефона</item>
         <item>уведомление о пропущенных событиях при взятии трубки</item>
+    </string-array>
+    <string-array name="locale_on_off_keep">
+        <item>Включить</item>
+        <item>Отключить</item>
+        <item>Сохранить как</item>
     </string-array>
 </resources>

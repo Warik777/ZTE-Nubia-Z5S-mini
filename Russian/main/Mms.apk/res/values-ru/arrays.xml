@@ -23,24 +23,6 @@
         <item>Ухмылка</item>
         <item>Невозмутимость</item>
     </string-array>
-    <string-array name="select_dialog_items">
-        <item>1 секунда</item>
-        <item>2 сек.</item>
-        <item>3 сек.</item>
-        <item>4 сек.</item>
-        <item>5 секунд</item>
-        <item>6 секунд</item>
-        <item>7 секунд</item>
-        <item>8 секунд</item>
-        <item>9 секунд</item>
-        <item>10 секунд</item>
-        <item>Другое</item>
-    </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>Всегда</item>
-        <item>Только в режиме без звука</item>
-        <item>Никогда</item>
-    </string-array>
     <string-array name="empty_subject_strings">
         <item>без темы</item>
     </string-array>
@@ -61,12 +43,30 @@
         <item>Где ты?</item>
         <item>Позвони мне.</item>
     </string-array>
+    <string-array name="pref_slideshow_open_mode_choices">
+        <item>Мобильные газеты</item>
+        <item>Слайд-шоу</item>
+    </string-array>
     <string-array name="entries_where_to_save_sms">
         <item>Телефон</item>
         <item>Карта</item>
     </string-array>
-    <string-array name="pref_slideshow_open_mode_choices">
-        <item>Мобильные газеты</item>
-        <item>Слайд-шоу</item>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
     </string-array>
 </resources>

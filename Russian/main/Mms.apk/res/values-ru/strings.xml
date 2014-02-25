@@ -417,11 +417,13 @@
     <string name="resize_imgae">Изменение размеров изображения ...</string>
     <string name="resize_imgae_title">Изменение размеров изображения</string>
     <string name="notification_content_with_privicy">Новое сообщение %s</string>
-    <string name="failed_to_add_forward_locked_media">Жаль это DRM Защита %1$s находится впереди закрыта, вы не можете добавить этот %1$s на ваше сообщение.</string>
+    <string name="mycloud_not_found">My File application not founded! Please start My File first!</string>
     <string name="recipient_pick_error">В настоящее время нельзя выбрать получателей</string>
     <string name="all_messages">Всего</string>
     <string name="resend">Отправить</string>
     <string name="fail_recipients_title">Группа отправляется, ошибка %s</string>
+    <string name="sms_service_center">SMS-сервис центр</string>
+    <string name="error_format">Ошибка формата</string>
     <string name="more_string">еще %1$s...</string>
     <string name="copy_email">Скопировать адрес эл. почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
