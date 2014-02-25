@@ -82,6 +82,7 @@
     <string name="quicktest_charger_unplug">Зарядное устройство отключено!</string>
     <string name="quicktest_charger_charging">Батарея заряжается!</string>
     <string name="quicktest_charger_notcharging">Пожалуйста, вставьте зарядное устройство!</string>
+    <string name="quicktest_battery_power">Статус заряда:</string>
     <string name="quicktest_battery_status">Статус батареи:</string>
     <string name="quicktest_battery_level">Уровень батареи:</string>
     <string name="quicktest_battery_scale">Шкала батареи:</string>
@@ -270,4 +271,6 @@ Please calibrate first!"</string>
     <string name="mic3_test_result">MIC-3 Result</string>
     <string name="testButton">START</string>
     <string name="showDiffAndResult">Calculating Result</string>
+    <string name="quicktest_usb">Тест USB</string>
+    <string name="quicktest_usb_unkown">USB тип неизвестен, пожалуйста проверьте узел файла в ядре.</string>
 </resources>

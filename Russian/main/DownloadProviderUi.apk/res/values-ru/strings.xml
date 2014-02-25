@@ -31,4 +31,5 @@
     <string name="select_all">Выбрать все</string>
     <string name="selected_count">%1$d из %2$d</string>
     <string name="download_share_dialog">Способ отправки</string>
+    <string name="share_failed_with_download_error">Произошла ошибка загрузки файла, невозможно продолжить.</string>
 </resources>
