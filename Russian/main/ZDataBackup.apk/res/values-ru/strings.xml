@@ -58,6 +58,7 @@
     <string name="app_backup_introduction">Выполнить резервное копирование приложения и данных</string>
     <string name="app_backup">Резервное копирование приложений</string>
     <string name="backup_item_group_type1">Установленные приложения и данные</string>
+    <string name="backup_item_group_type2">Удаленнные защищеные данные</string>
     <string name="app_total_info">Всего %1$s</string>
     <string name="all_data_title">Данные</string>
     <string name="all_apk_title">Приложения</string>
