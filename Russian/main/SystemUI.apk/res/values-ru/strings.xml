@@ -113,6 +113,7 @@
     <string name="accessibility_no_sim">SIM-карта отсутствует.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth-модем</string>
     <string name="accessibility_airplane_mode">Режим полета.</string>
+    <string name="accessibility_battery_level">Процентов батареи %d.</string>
     <string name="accessibility_settings_button">Настройки</string>
     <string name="accessibility_notifications_button">Уведомления</string>
     <string name="accessibility_remove_notification">Удалить уведомление</string>
